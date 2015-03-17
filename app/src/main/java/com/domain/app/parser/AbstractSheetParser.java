@@ -1,4 +1,4 @@
-package com.mydomain.app.parser;
+package com.domain.app.parser;
 
 import java.io.File;
 import java.util.Calendar;

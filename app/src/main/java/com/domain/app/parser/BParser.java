@@ -1,4 +1,4 @@
-package com.mydomain.app.parser;
+package com.domain.app.parser;
 
 import java.util.ArrayList;
 import java.util.HashMap;
