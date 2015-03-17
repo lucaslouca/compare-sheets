@@ -25,7 +25,7 @@ public abstract class AbstractSheetParser {
 	/**
 	 * Returns the number of days in a month for a given year.
 	 * 
-	 * @param month
+	 * @param month zero-base month
 	 * @param year
 	 * @return the number of days in month
 	 */
