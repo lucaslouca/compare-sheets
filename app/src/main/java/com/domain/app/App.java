@@ -1,4 +1,4 @@
-package com.mydomain.app;
+package com.domain.app;
 
 import java.io.IOException;
 import java.util.HashSet;
