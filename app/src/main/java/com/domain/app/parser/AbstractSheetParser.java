@@ -58,7 +58,7 @@ public abstract class AbstractSheetParser {
 			if (monthToVacation2.containsKey(month)) {
 				Boolean[] vacation2 = monthToVacation2.get(month);
 				for (int d = 0; d < vacation.length; d++) {
-					vacation[d] = vacation[d] | vacation2[d];
+					vacation[d] = vacation[d] & vacation2[d];
 				}
 			}
 
