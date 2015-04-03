@@ -305,7 +305,7 @@ If **sheet A** contains a total of **0** working hours for some day for a given 
 
 If that is not the case for a person, we have an inconsistency between the two sheets. 
 
-This Java application finds and prints out the persons that are common in both sheets and have such inconsistencies. The application excludes weekends and holidays (load into the application as .xml) in its consistency check.
+This Java application finds and prints out the persons that are common in both sheets and have such inconsistencies. The application excludes weekends and holidays (loaded into the application as .xml) in its consistency check.
 
 ###How to Import into Eclipse
 * **File** -> **Import...** -> **Existing Maven Projects**
