@@ -1,7 +1,5 @@
-# compare-sheets
-
 ## What is this?
-Dear README, I never thought this would happen to me, but I got my self in a situation where I had to compare two excel sheets and give a report. And because I am lazy in respect that I don't want to compare these sheets manually, I wrote myself a small tool that does this work for me.
+Dear Penthouse, I never thought it would happen to me, but I got my self in a situation where I had to compare two excel sheets and give a report. And because I am lazy in respect that I don't want to compare these sheets manually, I wrote myself a small tool that does this work for me.
 
 This simple Java application basically loads 2 excel sheets of different structures containing names and vacation entries. **Nobody but me will probably need this**, but I though I'll share it anyway.
 
