@@ -1,4 +1,5 @@
-## What is this?
+**What is this?**
+
 Dear Penthouse, I never thought it would happen to me, but I got my self in a situation where I had to compare two excel sheets and give a report. And because I am lazy in respect that I don't want to compare these sheets manually, I wrote myself a small tool that does this work for me.
 
 This simple Java application basically loads 2 excel sheets of different structures containing names and vacation entries. **Nobody but me will probably need this**, but I though I'll share it anyway.
@@ -305,7 +306,7 @@ If that is not the case for a person, we have an inconsistency between the two s
 
 This Java application finds and prints out the persons that are common in both sheets and have such inconsistencies. The application excludes weekends and holidays (loaded into the application as .xml) in its consistency check.
 
-###How to Import into Eclipse
+**How to Import into Eclipse**
 * **File** -> **Import...** -> **Existing Maven Projects**
 * Click **Next**
 * Click **Browse...** for the **Root Directory**
